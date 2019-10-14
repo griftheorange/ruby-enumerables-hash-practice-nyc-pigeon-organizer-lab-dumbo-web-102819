@@ -19,12 +19,11 @@ def nyc_pigeon_organizer(data)
           attribute_layer[attribute].append(specific_attribute.to_s)
         end
       }
-      
       attribute_layer
     }
-    
     name_layer
   }
-  
   pigeon_hash
 end
+
+
